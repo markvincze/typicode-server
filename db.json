@@ -1,0 +1,39 @@
+{
+  "paymentOptions": [{
+    "lazyLoader": {},
+    "id": 2045161,
+    "flightBookingId": 2756294,
+    "code": "MC",
+    "displayText": "MasterCard",
+    "isDefaultSelected": true,
+    "paymentFee": 0.00,
+    "isOnline": true,
+    "isDebitCard": false,
+    "maxDaysForPaymentAfterBooking": 0,
+    "fullRedirect": true,
+    "paymentProviderOptionCode": "OgoneMC",
+    "returnUrl": null,
+    "position": 1,
+    "needsTopFrame": true,
+    "paymentContinuationId": 1,
+    "merchantOfRecordId": 0
+  }, {
+    "lazyLoader": {},
+    "id": 2045162,
+    "flightBookingId": 2756294,
+    "code": "VISA",
+    "displayText": "VISA",
+    "isDefaultSelected": false,
+    "paymentFee": 0.00,
+    "isOnline": true,
+    "isDebitCard": false,
+    "maxDaysForPaymentAfterBooking": 0,
+    "fullRedirect": true,
+    "paymentProviderOptionCode": "OgoneVISA",
+    "returnUrl": null,
+    "position": 2,
+    "needsTopFrame": false,
+    "paymentContinuationId": 1,
+    "merchantOfRecordId": 0
+  }]
+}
